@@ -132,18 +132,25 @@ npm start
 ---
 
 ## 🖼 Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <b>Main Home Page</b><br/>
+      <img src="https://github.com/user-attachments/assets/5b134940-f09a-4444-8090-38cf45fc1a7e" width="100%"/>
+    </td>
+    <td align="center">
+      <b>Admin Panel</b><br/>
+      <img src="https://github.com/user-attachments/assets/5e4715fc-26a1-486e-aa65-996a2f9eddc5" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>OTP Verification</b><br/>
+      <img src="https://github.com/user-attachments/assets/6eca0a36-2816-41b2-9bd5-5fdebc01c948" width="60%"/>
+    </td>
+  </tr>
+</table>
 
-### ⭐ Main Home Page
-
-<img width="1903" height="987" alt="Screenshot 2025-11-05 144316" src="https://github.com/user-attachments/assets/5b134940-f09a-4444-8090-38cf45fc1a7e" />
-
-### ⭐ Admin Panel
-
-<img width="1282" height="717" alt="Screenshot 2025-11-05 145431" src="https://github.com/user-attachments/assets/5e4715fc-26a1-486e-aa65-996a2f9eddc5" />
-
-### ⭐ OTP Verification
-
-<img width="804" height="532" alt="Screenshot 2025-11-05 151605" src="https://github.com/user-attachments/assets/6eca0a36-2816-41b2-9bd5-5fdebc01c948" />
 
 ---
 
