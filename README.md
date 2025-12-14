@@ -154,13 +154,26 @@ npm start
 * Rating + OTP Verification Flow
 * Frontend → Backend → Database Flow
 * User Access Diagram
-<img width="816" height="939" alt="image" src="https://github.com/user-attachments/assets/177b8c41-aa89-45d0-b007-1222fffea792" />
-<img width="947" height="1454" alt="image" src="https://github.com/user-attachments/assets/9c45998b-5a22-4d5b-9d72-f2703af94506" />
-<img width="940" height="768" alt="image" src="https://github.com/user-attachments/assets/71386f2f-dd1b-4296-af7a-b53f316140a8" />
-<img width="940" height="802" alt="image" src="https://github.com/user-attachments/assets/e37a907c-0695-4fb7-a9a9-50e15b7e5015" />
-<img width="940" height="684" alt="image" src="https://github.com/user-attachments/assets/a3898aba-283e-48ef-8818-8c4c7906a25f" />
-<img width="940" height="662" alt="image" src="https://github.com/user-attachments/assets/73460ac2-b1c4-4dfc-a1ad-bc3f3a772489" />
-<img width="870" height="684" alt="image" src="https://github.com/user-attachments/assets/da18ced1-dfeb-4736-829a-173792eb1581" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/177b8c41-aa89-45d0-b007-1222fffea792" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9c45998b-5a22-4d5b-9d72-f2703af94506" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/71386f2f-dd1b-4296-af7a-b53f316140a8" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e37a907c-0695-4fb7-a9a9-50e15b7e5015" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a3898aba-283e-48ef-8818-8c4c7906a25f" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/73460ac2-b1c4-4dfc-a1ad-bc3f3a772489" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/da18ced1-dfeb-4736-829a-173792eb1581" width="60%"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
